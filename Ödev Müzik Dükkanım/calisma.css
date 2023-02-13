@@ -1,0 +1,29 @@
+.ul {    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-decoration: none;
+    margin-left: 40%;
+}
+
+.list {
+    display: inline;
+    float: left;
+    display: block;
+    padding: 14px 16px;
+    color: #666;
+    text-align:center;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+}
+
+body {
+    background-color: white;
+}
+
+.picture {
+    height: 250;
+    width: 250;
+    background-color: FCF1F1;
+}
